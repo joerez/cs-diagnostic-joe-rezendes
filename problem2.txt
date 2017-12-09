@@ -1,0 +1,12 @@
+What is the difference between an interpreted and a compiled language?  What are the strengths and weaknesses of each?  Give an example of each, and list a situation for each where a developer should choose one over the other.
+
+
+An interpreted language, such as Javascript or Ruby does not need to be compiled in order for it to work. When saving a project in Java, however, you'll need to compile everything into one file, and that's what compilers do.
+
+While Javascript can be component based with different frameworks, we don't combine every single .js file into one file type, like we would by making all of our java code compiled into a .Javascript
+
+The advantage of interpreted languages is added flexibility, some things are easier to implement and scope is easier to grasp. Additionally, file sizes will be smaller.
+
+You can not obfuscate an interpreted language, so it's open to being copied. Additionally they are suseptible to code injection attacks.
+
+If you're doing something on the web an interpreted language is perfect, especially if your project is open source. However if you're creating a product that you don't want copied, that runs as an application, it may be wiser to choose coding it with a compiled language.

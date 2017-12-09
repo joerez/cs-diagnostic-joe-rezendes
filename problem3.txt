@@ -1,0 +1,15 @@
+Explain Algorithm in a way a child could understand
+
+An algorithm is a series of steps a computer can make to solve a simple task.
+
+For instance, if we wanted to convert letters to numbers, we could use an algorithm to do so.
+
+The algorithm would need to do the steps in order. First we would define the numerical values of the numbers.
+
+We'd tell the computer first, that A = 1, B = 2, and so on.
+
+Next we would input the word we want to convert. Maybe the word is Word.
+
+Then the computer would compare the Word, Word, to the numerical equivilents, and then finally output the result.
+
+Word = 23 15 18 4
